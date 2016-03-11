@@ -1,5 +1,4 @@
 127.0.0.1 localhost
-127.0.0.1 deepin
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
@@ -9,7 +8,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
-# Ad blocking hosts generated dom feb 21 00:23:56 CST 2016  clixsense
+# Ad blocking hosts generated Fryday March 11 19:12:00 CST 2016
 
 0.0.0.0 trafficmonsoon.com
 0.0.0.0 shoemoney.net
