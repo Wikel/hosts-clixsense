@@ -11,7 +11,7 @@
 * It can be adapted for Windows also :tophat:.
 
 ## Install or remove
-For install first you need to download [Download the .zip](https://github.com/Wikelx/hosts-clixsense/archive/master.zip).
+For install first you need to download [Download the .zip](https://github.com/Wikel/hosts-clixsense/archive/master.zip).
 
 ### Linux
 ```json
