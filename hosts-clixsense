@@ -8,7 +8,36 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
-# Ad blocking hosts generated Monday March 14 19:12:00 CST 2016
+#Google Ads
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservices.google.com
+0.0.0.0 ssl.google-analytics.com 
+0.0.0.0 www.google-analytics.com
+0.0.0.0 imageads.googleadservices.com 
+0.0.0.0 imageads1.googleadservices.com
+0.0.0.0 imageads2.googleadservices.com
+0.0.0.0 imageads3.googleadservices.com
+0.0.0.0 imageads4.googleadservices.com
+0.0.0.0 imageads5.googleadservices.com
+0.0.0.0 imageads6.googleadservices.com
+0.0.0.0 imageads7.googleadservices.com
+0.0.0.0 imageads8.googleadservices.com
+0.0.0.0 imageads9.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.googleadservices.com
+
+0.0.0.0 ads.youtube.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 files.adform.net
+0.0.0.0 secure-ds.serving-sys.com
+
+# Ad blocking hosts generated Monday April 11 19:12:00 CST 2016
 
 0.0.0.0 trafficmonsoon.com
 0.0.0.0 shoemoney.net
@@ -34,7 +63,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 donkeymails.com
 0.0.0.0 lexiadz.com
 0.0.0.0 s3.c.adhitzads.com
-0.0.0.0 neobux.earncash24.com
 0.0.0.0 findthebestsitesonline.com
 0.0.0.0 p3.adhitzads.com
 0.0.0.0 links.empiremoney.com
@@ -46,7 +74,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0daybux.com
 0.0.0.0 beonpush.com
 0.0.0.0 edentraffic.com
-0.0.0.0 learnneobux.com
 0.0.0.0 han-mark.com
 0.0.0.0 paid-to-read-email.com
 0.0.0.0 bestofferonline.info
@@ -60,7 +87,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 payspree.com
 0.0.0.0 bit.ly
 0.0.0.0 bestdealgift.com
-0.0.0.0 grandbux.net
+0.0.0.0 www.grandbux.net
 0.0.0.0 myadcubes.com
 0.0.0.0 worldprofittraffic.com
 0.0.0.0 promo.ecorevenue.com
@@ -70,6 +97,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ganar-dinero-blogger-y-facebook.blogspot.com.co
 0.0.0.0 goo.gl/30TuHQ
 0.0.0.0 www.neobux.com
+0.0.0.0 learnneobux.com
+0.0.0.0 neobux.earncash24.com
 0.0.0.0 feclix.com
 0.0.0.0 trafficwave.net
 0.0.0.0 buxenger.com
@@ -106,9 +135,22 @@ ff02::3 ip6-allhosts
 0.0.0.0 experiencevalentus.com
 0.0.0.0 myfreeshares.com
 0.0.0.0 spintoshi.eu
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 ptcgroups.com
+0.0.0.0 topfiveforex.com
+0.0.0.0 click-sites.com
+0.0.0.0 www.spintoshi.eu
+0.0.0.0 www.vaubux.com
+0.0.0.0 www.tvstar.ws
+0.0.0.0 paynov.com
+0.0.0.0 monstersalesmachine.stableonlineprofits.com
+0.0.0.0 powerleadsystem.com.pl
+0.0.0.0 dariusr.futurenet.club
+0.0.0.0 vitalviralpro.com
+0.0.0.0 theenterprisemind.com
+0.0.0.0 www.buxenger.com
+0.0.0.0 www.swissadspays.com
+0.0.0.0 www.wallstraffic.com
+0.0.0.0 www.theptcplace.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
